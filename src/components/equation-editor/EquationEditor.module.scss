@@ -1,0 +1,45 @@
+h1 {
+  font-size: 48px;
+  line-height: 58px;
+  margin: 0 0 30px;
+}
+
+.equationEditor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.equationField {
+  margin-bottom: 20px;
+}
+
+.latexContainer {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 30px;
+  margin-bottom: 20px;
+  background: #ccc;
+}
+
+.latexTitle {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  margin-right: 10px;
+}
+
+.latexValue {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+input {
+  width: 100%;
+  height: 30px;
+  font-size: 16px;
+  line-height: 18px;
+  padding: 0 10px;
+}
