@@ -2,6 +2,8 @@
 
 Компонент react для редактирования формул в latex и обратно на основе mathquill
 
+![ScreenShot](https://raw.github.com/krivilyov/equation-editor-by-mathquill/master/screenshots/equation_editor.png)
+
 ## Libraries
 
 react-mathquill [https://www.npmjs.com/package/react-mathquill](https://www.npmjs.com/package/react-mathquill)
